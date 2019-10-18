@@ -10,8 +10,10 @@
         <module name="gmall-common-util" />
         <module name="gmall-web-util" />
         <module name="gmall-user" />
+        <module name="gmall-user-web" />
         <module name="gmall-api" />
         <module name="gmall-service-util" />
+        <module name="gmall-user-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +23,8 @@
       <module name="gmall-parent" target="1.8" />
       <module name="gmall-service-util" target="1.8" />
       <module name="gmall-user" target="1.8" />
+      <module name="gmall-user-service" target="1.8" />
+      <module name="gmall-user-web" target="1.8" />
       <module name="gmall-web-util" target="1.8" />
     </bytecodeTargetLevel>
   </component>

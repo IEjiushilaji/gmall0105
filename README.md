@@ -23,4 +23,3 @@ service-util \
 
 api : \
 用户bean
-    
